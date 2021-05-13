@@ -8,6 +8,8 @@ int main(){
 
     // You can not use format string to print complex or imaginary directly
     // But can use format string %f to print real and imaginary part
+    printf("%d", abool);
+    printf("\n");
     printf("%f +%fi", creal(acomplex), cimag(acomplex));
     printf("\n");
 
