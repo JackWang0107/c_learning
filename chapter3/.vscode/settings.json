@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "stdio.h": "c",
+        "complex.h": "c"
+    },
+    "C_Cpp.intelliSenseEngineFallback": "Enabled",
+    "python.pythonPath": "/home/jack/anaconda3/bin/python"
+}
