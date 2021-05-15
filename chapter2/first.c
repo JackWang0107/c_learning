@@ -3,7 +3,6 @@
 int print_words(int num);
 
 int main(void){
-
     int num;
     num = 1;
 
