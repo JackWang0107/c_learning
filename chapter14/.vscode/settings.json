@@ -1,0 +1,6 @@
+{
+    "python.pythonPath": "/home/jack/anaconda3/bin/python",
+    "files.associations": {
+        "s_gets.h": "c"
+    }
+}
