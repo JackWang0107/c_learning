@@ -1,0 +1,8 @@
+{
+	"files.associations": {
+		"math.h": "c",
+		"cmath": "c",
+		"names.h": "c",
+		"names_st.h": "c"
+	}
+}
